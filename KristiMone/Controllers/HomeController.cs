@@ -22,7 +22,7 @@ namespace KristiMone.Controllers
 
         public ActionResult Contact()
         {
-            ViewBag.Message = "Hello world.";
+            ViewBag.Message = "Page 1";
 
             return View();
         }
